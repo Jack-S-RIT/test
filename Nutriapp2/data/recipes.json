@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "eggs",
+        "instructions": "put 2 eggs in a pan",
+        "ingredients": {
+            "1": 2
+        }
+    },
+    {
+        "id": 2,
+        "name": "bacon & eggs",
+        "instructions": "cook eggs and bacon",
+        "ingredients": {
+            "0": 3,
+            "1": 2
+        }
+    }
+]
